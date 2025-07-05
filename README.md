@@ -1,4 +1,5 @@
-[![MasterHead](00086-desk-anim-v0.3.gif)]()
+![MasterHead](https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/00086-desk-anim-v0.3.gif)
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sadman Sakib</h1>
 <h3 align="center">Studying Computer Science & Eng.</h3>
 <p align="center">
