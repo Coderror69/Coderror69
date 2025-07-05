@@ -20,7 +20,6 @@
 - ⚡ **Seeking knowledge about AI**  
 - 📫 How to reach me: **lee016043@gmail.com**  
 - ⚡ Fun fact: **Used to play games a lot but now just love to play with codes**
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/nvLI5ft4bqAAAAAM/cloris-leach.gif"/>
 
 
 
