@@ -23,10 +23,6 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/nvLI5ft4bqAAAAAM/cloris-leach.gif"/>
 
 
-</br>
-</br>
-</br>
-
 
 ### Connect with me:
 
