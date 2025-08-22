@@ -14,7 +14,7 @@
 
 - 🔭 **I’m currently learning programming languages**  
 - 🌱 **I’m currently learning C, C++, Java, Python, C#**  
-- 👯 **I’m currently learning web development**  
+- 👯 **I’m currently learning Machine Learning**  
 - ⚡ **Seeking knowledge about AI**  
 - 📫 How to reach me: **lee016043@gmail.com**  
 - ⚡ Fun fact: **Used to play games a lot but now just love to play with codes**
@@ -58,13 +58,7 @@ These are the tools and languages that I have worked with and have experience ab
   ![C Sharp](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=csharp)&nbsp;
   ![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-05122A?style=flat&logo=codeblocks&logoColor=FE7A16)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;  
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
